@@ -7,6 +7,9 @@ Within the top 10 subcategories (as shown in the second and third-level category
 
 The boxplot analysis of discount_percentage provided insights into pricing strategies across the dataset. The discounts offered were consistent across a wide range of ratings, typically ranging from 30% to 70%. However, there were no clear trends indicating that higher or lower-rated products received consistently different levels of discounting. This indicates that discount strategies are more likely driven by external factors such as market demand or inventory management rather than customer satisfaction metrics.
 
+![image](https://github.com/user-attachments/assets/8ba288a5-fb2a-4268-94bb-e038078d5a35)
+
+
 Conclusion
 
 The analysis highlights key areas of strength in the dataset, particularly the dominance of electronics and home appliances. Marketing efforts and sales strategies should continue to focus on these core categories, while underrepresented categories offer potential opportunities for growth. Furthermore, the significance of accessories in customer purchasing patterns suggests that bundling these items with higher-priced products could drive further sales. The pricing analysis shows that discounts are applied flexibly across the board, with opportunities for refinement based on specific product performance or rating trends. Lastly, efforts to encourage customer reviews could enhance insights into customer sentiment and help tailor discounting and marketing strategies more effectively.
