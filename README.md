@@ -1,3 +1,4 @@
+### EDA on Amazon Products
 ![image](https://github.com/user-attachments/assets/b8199d9d-cdc9-47a9-be90-d10c20cb253b)
 The first notable observation is that the product categories are dominated by Electronics and Home & Kitchen items, as seen in the distribution charts for the first-level categories. These two segments combined account for the majority of products, indicating that they are the most significant areas of focus in the dataset. Subcategories such as Computers & Accessories also feature prominently but to a lesser degree. Additionally, certain categories like Musical Instruments, Toys & Games, and Health & Personal Care are underrepresented, suggesting potential areas for expansion or more targeted marketing strategies.
 
