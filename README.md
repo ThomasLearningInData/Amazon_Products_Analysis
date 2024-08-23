@@ -8,6 +8,7 @@ Within the top 10 subcategories (as shown in the second and third-level category
 The boxplot analysis of discount_percentage provided insights into pricing strategies across the dataset. The discounts offered were consistent across a wide range of ratings, typically ranging from 30% to 70%. However, there were no clear trends indicating that higher or lower-rated products received consistently different levels of discounting. This indicates that discount strategies are more likely driven by external factors such as market demand or inventory management rather than customer satisfaction metrics.
 
 ![image](https://github.com/user-attachments/assets/8ba288a5-fb2a-4268-94bb-e038078d5a35)
+
 This visualization is useful for analyzing customer purchase behaviors, highlighting that while a significant number of users return to make a second purchase, only a few continue to buy more extensively. This could be relevant for developing loyalty programs or targeted marketing strategies to encourage more frequent purchases among existing customers.
 
 Conclusion
